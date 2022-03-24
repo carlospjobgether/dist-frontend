@@ -1,0 +1,1 @@
+var s="https://cdn.jsdelivr.net/gh/hernandavidc/webflow-test/app/assets/img/icons/briefcase.svg",e="https://cdn.jsdelivr.net/gh/hernandavidc/webflow-test/app/assets/img/icons/management-type.png";export{s as _,e as a};
