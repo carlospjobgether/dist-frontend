@@ -1,1 +1,0 @@
-var s="https://cdn.jsdelivr.net/gh/carlospjobgether/dist-frontend/assets/img/icons/briefcase.svg",t="https://cdn.jsdelivr.net/gh/carlospjobgether/dist-frontend/assets/img/icons/management-type.png";export{s as _,t as a};
