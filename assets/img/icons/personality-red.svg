@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68.963" height="68.963" viewBox="0 0 68.963 68.963">
+  <defs>
+    <filter id="Elipse_494" x="0" y="0" width="68.963" height="68.963" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#fd1c1c" flood-opacity="0.902"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Elipse_493" data-name="Elipse 493" cx="18.416" cy="18.416" r="18.416" transform="translate(15.986 16.062)" fill="#f75454" opacity="0.432"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Elipse_494)">
+    <circle id="Elipse_494-2" data-name="Elipse 494" cx="11.981" cy="11.981" r="11.981" transform="translate(22.5 22.5)" fill="#f75454"/>
+  </g>
+</svg>
