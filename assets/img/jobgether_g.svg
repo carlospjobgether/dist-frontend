@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.762" height="39" viewBox="0 0 37.762 39">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1e95f7"/>
+      <stop offset="1" stop-color="#25ce25"/>
+    </linearGradient>
+  </defs>
+  <g id="jobgether_g" transform="translate(-1112 -460.265)">
+    <path id="Path_10" data-name="Path 10" d="M1152.69,460.265l3.547,2.76-2.211,2.6a10.4,10.4,0,0,1,2.838,7.279,9.266,9.266,0,0,1-6.2,9.136c4.777,1.618,6.148,4.853,6.148,7.661,0,6.376-6.243,9.563-12.486,9.563-7.614,0-12.485-3.9-12.3-10.42h4.871c-.142,3.665,3.547,5.615,7.425,5.663,3.595,0,7.425-1.475,7.425-4.806,0-3.283-2.979-5.091-7.33-5.091-7.567,0-12.627-4.377-12.627-11.705,0-7.85,6.29-11.8,12.627-11.8a12.171,12.171,0,0,1,6.29,1.618Zm-15.974,12.64c0,4.663,3.5,7.185,7.709,7.185,4.3,0,7.567-2.95,7.567-7.185,0-4.615-3.548-7.232-7.567-7.232C1140.453,465.673,1136.716,468.005,1136.716,472.905Z" transform="translate(-13.745)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="3.975" height="4.281" transform="translate(1112 471.191)" fill="#1e95f7"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="4.892" height="4.281" transform="translate(1144.87 471.191)" fill="#25ce25"/>
+  </g>
+</svg>
