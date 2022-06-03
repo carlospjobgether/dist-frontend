@@ -1,4 +1,4 @@
-import{d as ue,aC as i,aI as B,aQ as A,x as Se,aR as ge,aS as we,s as Y,aO as ce,aT as xe,aU as h,aV as g}from"./vendor.29253555.js";/**
+import{d as ue,ar as i,aI as B,aQ as A,x as Se,aR as ge,aS as we,s as Y,aM as ce,aT as xe,aU as h,aV as g}from"./vendor.a3bdd978.js";/**
  * Vue 3 Carousel 0.1.40
  * (c) 2022
  * @license MIT
